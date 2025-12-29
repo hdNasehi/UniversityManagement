@@ -6,7 +6,8 @@
         public string FullName { get; set; }
         public int UniversityId { get; set; }
 
-        public University University { get; set; }
-        public ICollection<StudentLesson> StudentLessons { get; set; }
+        public University? University { get; set; }
+        public ICollection<StudentLesson>? StudentLessons { get; set; }
+
     }
 }

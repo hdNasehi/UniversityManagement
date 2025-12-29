@@ -1,4 +1,5 @@
-﻿using UniversityManagement.Models.UniversityManagement.Models;
+﻿using UniversityManagement.Models;
+ 
 
 namespace UniversityManagement.Models
 {
